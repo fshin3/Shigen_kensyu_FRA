@@ -18,6 +18,8 @@
 
 
 ## 更新
+- (2022/12/11) 2023年度資源管理研修会用のページに更新しました
+- (2023/12/11) VPAのページを更新しました
 - (2023/11/27) Rのページを更新しました
 - (2022/12/07) SSPMのページを更新しました
 - (2022/12/04) Type2のページを更新しました
@@ -35,6 +37,7 @@
 
 ## 2023年度配布ファイル
 
+- [frasyrによるRidge-VPA解析](https://github.com/KoHMB/Shigen_kensyu_FRA/tree/main/VPA/vpa_11_code_data)
 - [R初心者講習 CPUE標準化その３用データ、デルタ2段階法用データ、ロジスティック回帰・多変量解析用データ](https://github.com/KoHMB/Shigen_kensyu_FRA/tree/main/R)
 
 ## 2022年度配布ファイル
